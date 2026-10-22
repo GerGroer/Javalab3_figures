@@ -1,4 +1,4 @@
-package exceptions;
+package app.exceptions;
 
 public class InvalidFigureRecordException  extends Exception {
     public InvalidFigureRecordException(String message, Throwable cause) {

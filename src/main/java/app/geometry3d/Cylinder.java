@@ -1,7 +1,7 @@
-package geometry3d;
+package app.geometry3d;
 
-import geometry2d.Figure;
-import exceptions.InvalidParameterException;
+import app.geometry2d.Figure;
+import app.exceptions.InvalidParameterException;
 
 import java.io.Serializable;
 
