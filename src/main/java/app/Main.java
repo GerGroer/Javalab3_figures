@@ -1,10 +1,10 @@
 package app;
 
-import geometry2d.Figure;
-import geometry3d.Cylinder;
-import storage.FigureStorage;
-import storage.TextfigureStorage;
-import storage.BinaryFigureStorage;
+import app.geometry2d.Figure;
+import app.geometry3d.Cylinder;
+import app.storage.FigureStorage;
+import app.storage.TextfigureStorage;
+import app.storage.BinaryFigureStorage;
 
 import java.nio.file.Path;
 import java.util.List;

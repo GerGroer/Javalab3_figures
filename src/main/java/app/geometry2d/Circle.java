@@ -1,6 +1,6 @@
-package geometry2d;
+package app.geometry2d;
 
-import exceptions.InvalidParameterException;
+import app.exceptions.InvalidParameterException;
 
 public class Circle implements Figure {
 

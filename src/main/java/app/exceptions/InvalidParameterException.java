@@ -1,4 +1,4 @@
-package exceptions;
+package app.exceptions;
 
 public class InvalidParameterException extends RuntimeException {
     public InvalidParameterException(String parameter, String reason) {

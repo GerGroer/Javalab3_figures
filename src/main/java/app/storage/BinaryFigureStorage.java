@@ -1,6 +1,6 @@
-package storage;
+package app.storage;
 
-import geometry2d.Figure;
+import app.geometry2d.Figure;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;

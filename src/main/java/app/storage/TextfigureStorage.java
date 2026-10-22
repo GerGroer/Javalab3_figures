@@ -1,9 +1,9 @@
-package storage;
+package app.storage;
 
-import geometry2d.Figure;
-import geometry2d.Circle;
-import geometry2d.Rectangle;
-import exceptions.InvalidFigureRecordException;
+import app.geometry2d.Figure;
+import app.geometry2d.Circle;
+import app.geometry2d.Rectangle;
+import app.exceptions.InvalidFigureRecordException;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
